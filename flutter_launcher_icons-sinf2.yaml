@@ -1,0 +1,8 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/branding/logosinfi2.png
+  adaptive_icon_background: "#1B5E3B"
+  adaptive_icon_foreground: assets/branding/logosinfi2.png
+  min_sdk_android: 24
+  remove_alpha_ios: true
